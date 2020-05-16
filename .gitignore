@@ -1,0 +1,7 @@
+.stack-work
+dist-newstyle
+stack.yaml.lock
+steps.aux
+steps.log
+steps.pdf
+steps.tex
